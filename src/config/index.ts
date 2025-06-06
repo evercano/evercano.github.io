@@ -28,14 +28,14 @@ export const SITE_CONTENT: SiteContent = {
     name: "Ever Cano",
     specialty: "Ever Cano — Computer Engineer, Data Analyst and Software Developer",
     summary:
-      "I am passionate about the tech industry and software engineering. I have collaborated in high-impact projects, such as the development of software that allows the management of cases against human exploitation and trafficking, as well as the development of web applications that allow non-profit organizations to cross borders and thus receive aid. for the construction and maintenance of drinking water wells that benefit people who do not have this vital liquid. I have experience with multiple backend and frontend development technologies and languages. More than three years leading the integration of technology in security processes that include production areas and the logistics chain of Dole Food Company",
+      "I am passionate about the tech industry and software engineering.",
     email: "everalexander126@gmail.com",
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
+      company: "Dole Fresh Fruit International, Ltd",
+      position: "Senior Electromechanical Analyst",
+      startDate: "Agust 2021",
       endDate: "Sept 2020",
       summary: [
         "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
@@ -87,9 +87,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
-
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+     I am passionate about the tech industry and software engineering. I have collaborated in high-impact projects, such as the development of software that allows the management of cases against human exploitation and trafficking, as well as the development of web applications that allow non-profit organizations to cross borders and thus receive aid. for the construction and maintenance of drinking water wells that benefit people who do not have this vital liquid. I have experience with multiple backend and frontend development technologies and languages. More than three years leading the integration of technology in security processes that include production areas and the logistics chain of Dole Food Company
     `,
     image: "/alejandro-big.jpg",
   },
