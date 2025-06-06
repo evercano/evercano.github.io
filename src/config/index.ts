@@ -25,11 +25,11 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Ever Cano",
+    specialty: "Ever Cano — Computer Engineer, Data Analyst and Software Developer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "I am passionate about the tech industry and software engineering. I have collaborated in high-impact projects, such as the development of software that allows the management of cases against human exploitation and trafficking, as well as the development of web applications that allow non-profit organizations to cross borders and thus receive aid. for the construction and maintenance of drinking water wells that benefit people who do not have this vital liquid. I have experience with multiple backend and frontend development technologies and languages. More than three years leading the integration of technology in security processes that include production areas and the logistics chain of Dole Food Company",
+    email: "everalexander126@gmail.com",
   },
   experience: [
     {
