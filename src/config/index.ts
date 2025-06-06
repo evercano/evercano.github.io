@@ -26,7 +26,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Ever Cano",
-    specialty: "Ever Cano — Computer Engineer, Data Analyst and Software Developer",
+    specialty: "Computer Engineer, Data Analyst and Software Developer",
     summary:
       "I am passionate about the tech industry and software engineering.",
     email: "everalexander126@gmail.com",
