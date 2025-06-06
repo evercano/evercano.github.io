@@ -6,6 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   vite: {
     site: "evercano.github.io",
+    base: '/evercano.github.io',
     plugins: [tailwindcss()],
   },
 });
