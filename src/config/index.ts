@@ -36,36 +36,45 @@ export const SITE_CONTENT: SiteContent = {
       company: "Dole Fresh Fruit International, Ltd",
       position: "Senior Electromechanical Analyst",
       startDate: "Agust 2021",
-      endDate: "Sept 2020",
+      endDate: "Current",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        "I integrated and improved the governance of data belonging to the security department by 60% with the goal of supporting decision-making based on Business Intelligence (BI).",
+        "I coordinate the implementation of technology that directly impacts a 30% cost reduction.",
+        "Implementé protocolos de mantenimiento del equipo electrónico que permitieron agilizar los procesos en un 80% en el centro de seguridad remota (CSR).",
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "CICESCT (Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas de Honduras)",
+      position: "Full Stack Developer",
+      startDate: "Feb 2021",
+      endDate: "Dec 2021",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        " structured the databases and three modules of the computer system that store the data used to recover and provide comprehensive protection services to more than 500 victims of human trafficking and sexual exploitation.",
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
+      company: "Organización Agua Viva Internacional ",
+      position: "Web Programmer",
+      startDate: "April 2021",
+      endDate: "April 2021",
       summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+        "I developed the official website for the religious organization Agua Viva International, which has allowed the organization to position itself online and obtain significant donations to impact the lives of more than 7% of the estimated 2 million Hondurans who still lack access to drinking water (https://oravihonduras.org/).Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+    },
+    {
+      company: "Centro Educativo Evangélico Bethel",
+      position: "DBA | Full Stacl Developer",
+      startDate: "Januany 2017",
+      endDate: "Agust 2021",
+      summary: [
+        "I managed the databases of the computer system used by the institution to process enrollment, accounts receivable, and service payments until 2020. These databases were hosted on SQL Server.",
+        "I developed the new administrative management software system (Billing, Educational, Student, and Personnel Administration, Web Platform) and maintained its database. The previous implementation streamlined the process flow by 90% and provided the institution with databases that allow for better control of accounts receivable."
+      ]
     },
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      name: "ERP - Edusoft",
+      summary: "Desktop computer system for administrative management with modules for billing, educational administration, and internal and external clients, as well as personnel management, point of sale, inventory, and an educational web module.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
@@ -75,7 +84,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "An e-commerce platform that replicates Shopify's key features.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      image: "/edusoft.png",
     },
     {
       name: "ClonTagram",
