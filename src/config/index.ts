@@ -77,7 +77,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "Desktop computer system for administrative management with modules for billing, educational administration, and internal and external clients, as well as personnel management, point of sale, inventory, and an educational web module.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      image: "/edusoft.png",
     },
     {
       name: "Shopp App",
