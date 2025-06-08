@@ -80,11 +80,11 @@ export const SITE_CONTENT: SiteContent = {
       image: "/edusoft.png",
     },
     {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      name: "Oravihn Web Site",
+      summary: "Official website for the religious organization Agua Viva International, which has allowed the organization to position itself online and obtain significant donations to impact the lives of more than 7% of an estimated 2 million Hondurans who still lack access to clean water.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/edusoft.png",
+      linkSource: "https://oravihonduras.org/",
+      image: "/oravi.png",
     },
     {
       name: "ClonTagram",
