@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/ever-small.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -98,7 +98,7 @@ export const SITE_CONTENT: SiteContent = {
     description: `
      I am passionate about the tech industry and software engineering. I have collaborated in high-impact projects, such as the development of software that allows the management of cases against human exploitation and trafficking, as well as the development of web applications that allow non-profit organizations to cross borders and thus receive aid. for the construction and maintenance of drinking water wells that benefit people who do not have this vital liquid. I have experience with multiple backend and frontend development technologies and languages. More than three years leading the integration of technology in security processes that include production areas and the logistics chain of Dole Food Company
     `,
-    image: "/alejandro-big.jpg",
+    image: "/ever-big.jpg",
   },
 };
 
