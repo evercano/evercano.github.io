@@ -49,7 +49,7 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Feb 2021",
       endDate: "Dec 2021",
       summary: [
-        " structured the databases and three modules of the computer system that store the data used to recover and provide comprehensive protection services to more than 500 victims of human trafficking and sexual exploitation.",
+        "I structured the databases and three modules of the computer system that store the data used to recover and provide comprehensive protection services to more than 500 victims of human trafficking and sexual exploitation.",
       ],
     },
     {
