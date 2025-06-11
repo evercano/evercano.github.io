@@ -40,7 +40,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: [
         "I integrated and improved the governance of data belonging to the security department by 60% with the goal of supporting decision-making based on Business Intelligence (BI).",
         "I coordinate the implementation of technology that directly impacts a 30% cost reduction.",
-        "Implementé protocolos de mantenimiento del equipo electrónico que permitieron agilizar los procesos en un 80% en el centro de seguridad remota (CSR).",
+        "I implemented electronic equipment maintenance protocols that streamlined processes by 80% at the remote security center (RSC).",
       ],
     },
     {
@@ -57,8 +57,9 @@ export const SITE_CONTENT: SiteContent = {
       position: "Web Programmer",
       startDate: "April 2021",
       endDate: "April 2021",
-      summary:
-        "I developed the official website for the religious organization Agua Viva International, which has allowed the organization to position itself online and obtain significant donations to impact the lives of more than 7% of the estimated 2 million Hondurans who still lack access to drinking water (https://oravihonduras.org/).Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+      summary:[
+        "I developed the official website for the religious organization Agua Viva International, which has allowed the organization to position itself online and obtain significant donations to impact the lives of more than 7% of the estimated 2 million Hondurans who still lack access to drinking water. Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+      ]
     },
     {
       company: "Centro Educativo Evangélico Bethel",
@@ -73,14 +74,14 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "ERP - Edusoft",
+      name: "Edusoft | ERP",
       summary: "Desktop computer system for administrative management with modules for billing, educational administration, and internal and external clients, as well as personnel management, point of sale, inventory, and an educational web module.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/edusoft.png",
     },
     {
-      name: "Oravihn Web Site",
+      name: "Oravihn | Web Site",
       summary: "Official website for the religious organization Agua Viva International, which has allowed the organization to position itself online and obtain significant donations to impact the lives of more than 7% of an estimated 2 million Hondurans who still lack access to clean water.",
       linkPreview: "/",
       linkSource: "https://oravihonduras.org/",
