@@ -88,11 +88,11 @@ export const SITE_CONTENT: SiteContent = {
       image: "/oravi.png",
     },
     {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
+      name: "CICESCT | ERP ",
+      summary: "A desktop computing system written in Java for its backend and JavaFX for its GUI that allows the entry, processing, and storage of data concerning cases of victims of human trafficking and sexual exploitation, with the goal of providing support in legal proceedings on behalf of the victims.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      image: "/cicest.png",
     },
   ],
   about: {
