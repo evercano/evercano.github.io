@@ -97,8 +97,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Interactive Dashboard | D3.JS Application",
       summary: "Interactive dashboard developed in the Visualization Tools course in the Official Master's Degree in Big Data Analysis and Visualization",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkPreview: "/dashboard1.png",
+      linkSource: "https://evercano.github.io/md_vt_activitie1/",
       image: "/dashboard1.png",
     },
   ],
