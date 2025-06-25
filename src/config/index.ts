@@ -94,6 +94,13 @@ export const SITE_CONTENT: SiteContent = {
       linkSource: "https://github.com/immois/astro-zen",
       image: "/cicest.png",
     },
+    {
+      name: "Interactive Dashboard | D3.JS Application",
+      summary: "Interactive dashboard developed in the Visualization Tools course in the Official Master's Degree in Big Data Analysis and Visualization",
+      linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
+      image: "/dashboard1.png",
+    },
   ],
   about: {
     description: `
