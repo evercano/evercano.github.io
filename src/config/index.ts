@@ -76,22 +76,20 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Edusoft | ERP",
       summary: "Desktop computer system for administrative management with modules for billing, educational administration, and internal and external clients, as well as personnel management, point of sale, inventory, and an educational web module.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkPreview: "/edusoft.png",
       image: "/edusoft.png",
     },
     {
       name: "Oravihn | Web Site",
-      summary: "Official website for the religious organization Agua Viva International, which has allowed the organization to position itself online and obtain significant donations to impact the lives of more than 7% of an estimated 2 million Hondurans who still lack access to clean water.",
-      linkPreview: "/",
+      summary: "Official website for the religious organization Agua Viva International",
+      linkPreview: "/oravi.png",
       linkSource: "https://oravihonduras.org/",
       image: "/oravi.png",
     },
     {
       name: "CICESCT | ERP ",
-      summary: "A desktop computing system written in Java for its backend and JavaFX for its GUI that allows the entry, processing, and storage of data concerning cases of victims of human trafficking and sexual exploitation, with the goal of providing support in legal proceedings on behalf of the victims.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      summary: "A desktop computing system written in Java for its backend and JavaFX for its GUI that allows the entry, processing, and storage of data concerning cases of victims of human trafficking and sexual exploitation",
+      linkPreview: "/cicest.png",
       image: "/cicest.png",
     },
     {
